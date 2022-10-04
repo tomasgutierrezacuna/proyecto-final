@@ -10,7 +10,7 @@
     <meta name="keywords"  content="AUTO, PEUGEOT, PEUGEOT 505, 505, DECADA DEL 80, SEDAN">
     <link rel="stylesheet" href="./css/style.css">
     <link rel="shortcut icon" href="./assets/img/favicon-Peugeot.ico" type="image/x-icon">
-    <title>Home - Peugeot 505 - Sitio de Información del mítico y legendario francés, el Peugeot 505</title>
+    <title>Error 404 - Peugeot 505</title>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-dark">
@@ -37,57 +37,13 @@
     </header>
     
     <main>
-        <h1 class="display-1 fw-bold m-lg-5 mb-5 text-center">PEUGEOT 505</h1>
-        <h4 class="display-5 text-center">La Consagración del Placer</h4>
-
-        <div class="cardsSlogans row mt-4 mb-3 mx-5 my-5 justify-content-around justify-content-center"">
-
-            <div class="card border-0" style="width: 12rem;">
-                <img src="./assets/img/indexP505V6.jpg" class="card-img-top" alt="Placa historica del 505 v6">
-                <div class="card-body">
-                    <p class="card-text">La Consagración del Placer</p>
-                </div>
-            </div>
-
-            <div class="card border-0" style="width: 12rem;">
-                <img src="./assets/img/indexP505Trompa.jpg" class="card-img-top" alt="Placa historica del 505 de frente, nocturno">
-                <div class="card-body">
-                    <p class="card-text">El Placer Fuerte</p>
-                </div>
-            </div>
-
-            <div class="card border-0" style="width: 12rem;">
-                <img src="./assets/img/indexP505Aleman.jpg" class="card-img-top" alt="Placa historica del 505 en Alemán">
-                <div class="card-body">
-                    <p class="card-text">La 1era Potencia</p>
-                </div>
-            </div>
-
-            <div class="card border-0" style="width: 12rem;">
-                <img src="./assets/img/indexP505Baul.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Si le Importa la Tecnología, no la Importe</p>
-                </div>
-            </div>
-
-            <div class="card border-0" style="width: 12rem;">
-                <img src="./assets/img/indexP505Capot.jpg" class="card-img-top" alt="Placa historica del 505 de frente, nocturno">
-                <div class="card-body">
-                    <p class="card-text">The Unexpected Discover</p>
-                </div>
-            </div>
-
-            <div class="card border-0" style="width: 12rem;">
-                <img src="./assets/img/indexP505v6v2.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Su fuerza, está en su naturaleza</p>
-                </div>
-            </div>
-
-        </div>
-
+        <h1 class="display-6 fw-bold m-5 ">ERROR 404</h1>
+        <h4 class="display-7 m-5">Peugeot 404</h4>
     </main>
 
+
+
+    Algo salió mal, pero igual te dejamos un lindo recuerdo del 404
 
     <footer class="container-fluid bg-black" >
         <img id="logofooter" class="logofooter m-t-5" src="./assets/img/favicon-Peugeot.ico" alt="">
